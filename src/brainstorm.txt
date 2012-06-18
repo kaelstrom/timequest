@@ -1,0 +1,165 @@
+
+Initial Skype convo
+[6/14/2012 1:45:47 PM] kaelstrom: i need to think of a game to work on
+[6/14/2012 1:46:48 PM] kaelstrom: saw a talk gdc talk about how most game designers take an existing game and remake, adding their own 10%
+[6/14/2012 1:46:54 PM] kaelstrom: rather than making anything new
+[6/14/2012 1:47:06 PM] kaelstrom: and i'd like to think of somehting new
+[6/14/2012 1:47:51 PM] mrc22091: mm
+[6/14/2012 1:47:54 PM] mrc22091: it's tough
+[6/14/2012 1:48:03 PM] mrc22091: writing is kind of the same
+[6/14/2012 1:48:14 PM] kaelstrom: yep
+[6/14/2012 1:48:34 PM] mrc22091: true creativity :P
+[6/14/2012 1:48:52 PM] kaelstrom: the talk was called making new genres, or how to stop cloning
+[6/14/2012 1:49:45 PM] kaelstrom: talked about following existing games down to their very roots, and explicitly taking the opposite route of how they solved their problems
+[6/14/2012 1:50:21 PM] kaelstrom: it was by the guy who worked on realm of the mad god, which is a free to play mmo-shooter written in flash with permadeath and no persistance :P
+[6/14/2012 1:50:34 PM] kaelstrom: and the thing is quite successful
+[6/14/2012 1:50:43 PM] mrc22091: mm.
+[6/14/2012 1:58:37 PM] kaelstrom: what about a 2d exploration game where every 10 minutes you fall asleep for hundreds of years
+[6/14/2012 1:58:45 PM] mrc22091: o.o
+[6/14/2012 1:59:13 PM] mrc22091: what is the objective?
+[6/14/2012 1:59:47 PM] kaelstrom: survive...  and... hmm
+[6/14/2012 1:59:57 PM] kaelstrom: discover your objective perhaps
+[6/14/2012 2:00:22 PM] kaelstrom: maybe you awake with a new goal each time
+[6/14/2012 2:01:21 PM] kaelstrom: maybe you've got to assemble a machine or learn some method to heal yourself, using stuff grabbed from each era
+[6/14/2012 2:04:16 PM] mrc22091: it would be interesting to see the story of your character being passed down through the centuries
+[6/14/2012 2:04:25 PM] kaelstrom: hah :D
+[6/14/2012 2:04:27 PM] kaelstrom: yeah it would
+[6/14/2012 2:04:35 PM] mrc22091: maybe try for a bit of continuity
+[6/14/2012 2:04:39 PM] mrc22091: start a cult :P
+[6/14/2012 2:05:29 PM] kaelstrom: yeah, if youve been doing certain things you'd awake on an altar and nearby people would freak out and start praying
+[6/14/2012 2:06:10 PM] mrc22091: :D
+[6/14/2012 2:06:33 PM] mrc22091: yes
+[6/14/2012 2:06:44 PM] mrc22091: premise being you are a scientist from the future with a broken time machine thing
+[6/14/2012 2:06:52 PM] mrc22091: and you've traveled far into the past
+[6/14/2012 2:07:13 PM] mrc22091: the time machine is slowly trying to correct itself, moving you forward in jumps
+[6/14/2012 2:07:22 PM] mrc22091: but you need to repair it and such every jump
+[6/14/2012 2:07:36 PM] mrc22091: or else it malfunctions and breaks causality
+[6/14/2012 2:07:41 PM] kaelstrom: :D
+[6/14/2012 2:09:53 PM] kaelstrom: i can see the char walking around, the timer runs out, they collapse to the floor, screen is filled with a hi-tech looking overlay saying 'ENTERING STASIS' and then the view blanks out like an old TV turning off
+[6/14/2012 2:10:30 PM] kaelstrom: and then it does a quick boot up animation and the character wakes up somewhere totally new and you;ve got to figure out where you are and how the worlds changed
+[6/14/2012 2:11:37 PM] kaelstrom: heh, i can have a display of the year in the corner thats glitchy, numbers flickering with letters and such
+[6/14/2012 2:13:44 PM] mrc22091: hmm
+[6/14/2012 2:14:00 PM] mrc22091: there should be a number of possibilities for each time space
+[6/14/2012 2:14:19 PM] mrc22091: depending on your actions and such
+[6/14/2012 2:14:46 PM] mrc22091: i guess there should be a mission for the original time travel that you've been trying to achieve
+[6/14/2012 2:15:57 PM] kaelstrom: maybe you've been going so long you dont remember :P
+[6/14/2012 2:16:06 PM] kaelstrom: or it could be something comically mundane
+[6/14/2012 2:16:59 PM] mrc22091: yes
+[6/14/2012 2:17:21 PM] mrc22091: you missed a dental appointment
+[6/14/2012 2:24:00 PM] kaelstrom: gotta decide what to prototype this in
+[6/14/2012 2:24:37 PM] mrc22091: i wonder if you can make a time loop
+[6/14/2012 2:24:51 PM] mrc22091: in which the end of one sequence puts you back into the same sequence or a previous sequence
+[6/14/2012 2:28:03 PM] kaelstrom: it'll need a fun movement mechanic to stay interesting
+[6/14/2012 2:29:07 PM] kaelstrom: grappling hooks are fun
+[6/14/2012 2:29:51 PM] mrc22091: mm
+[6/14/2012 2:30:02 PM] mrc22091: i imagine it's like a 2d side scroller?
+[6/14/2012 2:30:05 PM] kaelstrom: yeah
+[6/14/2012 2:30:17 PM] mrc22091: what do you think about top down?
+[6/14/2012 2:30:53 PM] kaelstrom: hmm.
+[6/14/2012 2:31:42 PM] kaelstrom: top down makes it easier to play around with realistic weather shifts and biomes
+[6/14/2012 2:32:06 PM] kaelstrom: but i think it might make exploration less personal...?
+[6/14/2012 2:32:28 PM] mrc22091: you're the expert there
+[6/14/2012 2:32:39 PM] mrc22091: hmm
+[6/14/2012 2:33:41 PM] kaelstrom: i also think finding shelter would be important to do, which is harder to represent top down
+[6/14/2012 2:33:49 PM] kaelstrom: welll....
+[6/14/2012 2:33:51 PM] kaelstrom: hmmmm.
+[6/14/2012 2:35:33 PM] kaelstrom: yeah, i'd rather do side scrolling
+[6/14/2012 2:38:50 PM] mrc22091: i think this project could really go places :P
+[6/14/2012 2:39:17 PM] mrc22091: although mechanically, it's a side scroller..
+[6/14/2012 2:39:32 PM] mrc22091: our 10% will be in the story execution
+[6/14/2012 2:41:18 PM] mrc22091: maybe we could do some really weird shit with the time machine
+[6/14/2012 2:41:45 PM] kaelstrom: mmm
+[6/14/2012 2:41:58 PM] kaelstrom: i was jsut thinking that the world could be deterministic
+[6/14/2012 2:42:31 PM] kaelstrom: so the state of any particular object or terrain chunk would be calculable for any time
+[6/14/2012 2:43:18 PM] kaelstrom: that way the player could regain partial control of the machine or get backwords instead of forwards and things would be consistent
+[6/14/2012 2:43:30 PM] mrc22091: mm
+[6/14/2012 2:43:58 PM] mrc22091: i was thinking on the micro scale, if your side scroller is anything like trine or iji
+[6/14/2012 2:44:42 PM] mrc22091: maybe the player can warp back an amount of time, on cool down
+[6/14/2012 2:44:47 PM] kaelstrom: yeah, i think the 2d space would have to be rather limited to make it manageable
+[6/14/2012 2:45:09 PM] mrc22091: and there would be two instances of the player
+[6/14/2012 2:45:20 PM] kaelstrom: oh god thats right :O
+[6/14/2012 2:45:34 PM] kaelstrom: that could be... pretty great
+[6/14/2012 2:45:44 PM] mrc22091: you can use this mechanic to solve puzzles and such
+[6/14/2012 2:45:58 PM] kaelstrom: then youd poke your previous self and the game would go TIME PARADOX and you lose/reset XD
+[6/14/2012 2:46:03 PM] mrc22091: yeah
+[6/14/2012 2:46:11 PM] mrc22091: can't interfere with previous instance's actions
+[6/14/2012 2:46:22 PM] mrc22091: omg.
+[6/14/2012 2:46:56 PM] mrc22091: this can go somewhere great
+[6/14/2012 2:48:00 PM] mrc22091: and what if this happened in inverse too
+[6/14/2012 2:48:17 PM] mrc22091: play as the first instance, who runs into the second instance
+[6/14/2012 2:49:02 PM] mrc22091: you can set up a series of objectives for the first instance to meet, in order to become the second instance in time
+[6/14/2012 2:49:54 PM] kaelstrom: oh god...  this is getting hard to think about
+[6/14/2012 2:50:02 PM] mrc22091: lol
+[6/14/2012 2:50:15 PM] mrc22091: i think this can go somewhere great
+[6/14/2012 2:50:27 PM] mrc22091: like, if you have the ability, publish on steam great
+[6/14/2012 2:50:40 PM] kaelstrom: :)
+[6/14/2012 2:50:47 PM] kaelstrom: thats the long term goal
+[6/14/2012 2:52:00 PM] kaelstrom: i wonder how to deal with you doing something to an object in 200AD, and then going back to 100AD and doing something else that makes the 200AD action impossible
+[6/14/2012 2:53:22 PM] kaelstrom: maybe a test could be run to see if your actions performed later in time become impossible, and if they do then the time machine undoes that branch of your actions?
+[6/14/2012 2:53:36 PM] mrc22091: mm
+[6/14/2012 2:53:46 PM] kaelstrom: i want to keep it single timeline
+[6/14/2012 2:54:00 PM] mrc22091: yeah that would be easiest
+[6/14/2012 2:54:06 PM] kaelstrom: since movies always magic everything away by saying multiple timelines :P
+[6/14/2012 2:54:09 PM] mrc22091: so dealing with paradoxes
+[6/14/2012 2:54:22 PM] mrc22091: paradoxes just make things disappear?
+[6/14/2012 2:54:34 PM] kaelstrom: hehehe
+[6/14/2012 2:54:46 PM] mrc22091: like, make your 'past' actions disappear
+[6/14/2012 2:54:52 PM] kaelstrom: yeah i think so
+[6/14/2012 2:54:54 PM] mrc22091: so the 200AD actions no longer exist
+[6/14/2012 2:55:13 PM] kaelstrom: and the time machine could tell the player when that happens
+[6/14/2012 2:55:16 PM] mrc22091: i think the player should be limited in number of paradoxes
+[6/14/2012 2:55:19 PM] mrc22091: mm
+[6/14/2012 2:55:28 PM] mrc22091: maybe like amnesia's sanity bar
+[6/14/2012 2:55:36 PM] mrc22091: you can have a causality bar
+[6/14/2012 2:56:46 PM] kaelstrom: preventing you from bringing object back in time would be useful too
+[6/14/2012 2:57:15 PM] kaelstrom: and there'd probably need to be a limit on how many instances of yourself can concurrently exist at one time
+[6/14/2012 2:57:19 PM] kaelstrom: but maybe not
+[6/14/2012 2:57:27 PM] kaelstrom: that might depend on the tech
+[6/14/2012 2:57:34 PM] mrc22091: can probably limit on the local scale with a 'cooldown'
+[6/14/2012 2:57:49 PM] kaelstrom: maybe multiple instaces just overloads the causality bar
+[6/14/2012 2:57:58 PM | Edited 2:58:26 PM] mrc22091: eg. you can only warp backwards once every minute, for half  a minute
+[6/14/2012 2:58:04 PM] mrc22091: yeah
+[6/14/2012 2:59:56 PM] mrc22091: gotta take a shower
+[6/14/2012 3:01:40 PM] kaelstrom: mmm.
+[6/14/2012 3:01:47 PM] kaelstrom: ive gotta think about how to code this thing
+[6/14/2012 3:02:08 PM] kaelstrom: and get a meal
+[6/14/2012 8:40:22 PM] Ssandman2: this sounds really cool
+[6/14/2012 8:43:14 PM] kaelstrom: im getting all IDEed and GITted up
+[6/14/2012 8:43:23 PM] kaelstrom: gonna be using pygame
+[6/14/2012 8:43:42 PM] kaelstrom: and i got *GASP* paid github
+[6/14/2012 8:43:46 PM] kaelstrom: for private repos
+[6/14/2012 8:44:13 PM] Ssandman2: then maybe this isn't the time to tell you about the free student edition...
+[6/14/2012 8:44:28 PM] kaelstrom: aww.
+[6/14/2012 8:44:34 PM] Ssandman2: you only get 5 private repos
+[6/14/2012 8:44:44 PM] kaelstrom: yeah thats what im paying for atm
+[6/14/2012 8:44:50 PM] Ssandman2: how much?
+[6/14/2012 8:44:56 PM] kaelstrom: its 7$ a month
+[6/14/2012 8:45:48 PM] Ssandman2: that isn't bad
+[6/14/2012 8:45:49 PM] kaelstrom: i can downgrade though
+[6/14/2012 8:45:57 PM] kaelstrom: whats the student edition?
+[6/14/2012 8:46:27 PM] Ssandman2: I am not sure of all the features, but it got me access to 5 private repos
+[6/14/2012 8:46:45 PM] Ssandman2: and I forget how I got that, it isn't an automated process, and isn't advertised
+[6/14/2012 8:46:49 PM] kaelstrom: oh, its not intended for commercial
+[6/14/2012 8:46:55 PM] kaelstrom: i'll just stick to paying
+[6/14/2012 8:47:05 PM] Ssandman2: yea, if you plan to sell this then the student isn't for you
+[6/14/2012 8:47:08 PM] kaelstrom: its this https://github.com/edu
+[6/14/2012 8:47:31 PM] Ssandman2: do you have a standard branching model you plan to stick with and use?
+[6/14/2012 8:47:47 PM] kaelstrom: i have no idea
+[6/14/2012 8:47:54 PM] Ssandman2: http://nvie.com/posts/a-successful-git-branching-model/
+[6/14/2012 8:48:06 PM] Ssandman2: it is no where near as complex as it sounds
+[6/14/2012 8:48:26 PM] Ssandman2: but trust me when I say that this branching model made writing an OS with 4 other people incredibly easy
+[6/14/2012 8:48:38 PM] kaelstrom: mmm.
+[6/14/2012 8:49:00 PM] Ssandman2: if you want to see the result of following something like that, you can see this page
+[6/14/2012 8:49:01 PM] Ssandman2: https://github.com/grnt426/SysProgIIProject/network
+[6/14/2012 8:49:01 PM] kaelstrom: gonna call the repo timequest for now
+[6/14/2012 8:49:10 PM] kaelstrom: seems like a good working title
+[6/14/2012 8:49:44 PM] kaelstrom: im using aptana as my IDE
+[6/14/2012 8:49:58 PM] kaelstrom: its a distro of eclipse focused on web development
+[6/14/2012 8:50:04 PM] kaelstrom: that happens to come with pydev preinstalled
+[6/14/2012 8:50:13 PM] kaelstrom: yay python
+[6/14/2012 8:50:56 PM] kaelstrom: i told it to treat 'pygame' as if it was a builtin, so it has all this neat code introspection stuff for it
+[6/14/2012 8:51:30 PM] kaelstrom: gonna move to python 2.7.3 as well, since its the big thing
+[6/14/2012 8:52:40 PM] Ssandman2: be back later, going to the store
+[6/14/2012 8:52:48 PM] kaelstrom: k, ttyl
+[6/14/2012 9:08:36 PM] kaelstrom: oh man, imagine seeing yourself solving parts of puzzles after you get a chance to look and realize youd need another set of hands- it could simulate actual time travel
+[6/14/2012 9:08:55 PM] kaelstrom: and in game youd just have to at some point do the thing you saw yourself doing in order to finish
