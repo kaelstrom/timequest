@@ -3,8 +3,9 @@ Created on Jun 14, 2012
 
 @author: kaelstrom
 '''
-
-import pygame
+from game import Game
 
 if __name__ == '__main__':
-    pass
+    g = Game()
+    v = g.view
+    g.start()
