@@ -5,7 +5,6 @@ Created on Jun 14, 2012
 '''
 from game import Game
 
-if __name__ == '__main__':
-    g = Game()
-    v = g.view
-    g.start()
+g = Game()
+v = g.view
+g.start()
